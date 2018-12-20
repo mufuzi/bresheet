@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B'resheet International</title>
+    <description>We are traders in metals and mineral ores.</description>
+    <link>https://mufuzi.github.io/bresheet/</link>
+    <atom:link href="https://mufuzi.github.io/bresheet/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 20 Dec 2018 14:07:42 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Dec 2018 14:07:42 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Copper Cathodes</title>
+        <description>
+</description>
+        <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+        <link>https://mufuzi.github.io/bresheet/metals/2018/07/18/project-1/</link>
+        <guid isPermaLink="true">https://mufuzi.github.io/bresheet/metals/2018/07/18/project-1/</guid>
+        
+        
+        <category>Metals</category>
+        
+      </item>
+    
+      <item>
+        <title>Gold Nuggets &amp; Bars</title>
+        <description>
+</description>
+        <pubDate>Mon, 16 Jul 2018 00:00:00 +0200</pubDate>
+        <link>https://mufuzi.github.io/bresheet/metals/2018/07/16/project-3/</link>
+        <guid isPermaLink="true">https://mufuzi.github.io/bresheet/metals/2018/07/16/project-3/</guid>
+        
+        
+        <category>Metals</category>
+        
+      </item>
+    
+      <item>
+        <title>Copper Concentrate</title>
+        <description>
+</description>
+        <pubDate>Sat, 14 Jul 2018 00:00:00 +0200</pubDate>
+        <link>https://mufuzi.github.io/bresheet/ores/2018/07/14/project-2/</link>
+        <guid isPermaLink="true">https://mufuzi.github.io/bresheet/ores/2018/07/14/project-2/</guid>
+        
+        
+        <category>Ores</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+- privacy policy links
+- terms of use
+- change font family to ubuntu to match logo
+- smallest media size limited,  an shrink lower
